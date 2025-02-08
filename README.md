@@ -1,17 +1,14 @@
-<h1 align="center">Hi 👋, I'm Diya Oyedunmola</h1>
-<h3 align="center">inspiring Cybersecurity analyst</h3>
+<h1 align="center">Hi 👋, I'm Oyedunmola Diya</h1>
+<h3 align="center">Cybersecurity Analyst</h3>
 
-- 🔭 I’m currently working on **cybersecurity**
+- 🔭 I’m currently working on **Cybersecurity project**
+
+- 🌱 I’m currently learning **python,Linux,Network security**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
-
-<!--
-**Dunmoladiya/Dunmoladiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
